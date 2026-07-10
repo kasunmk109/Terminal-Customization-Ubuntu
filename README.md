@@ -5,28 +5,29 @@
 
 Custom anime artwork • ZSH • Fastfetch • Kitty • Nerd Fonts • Ubuntu 24.04
 
-!Ubuntu
-!Shell
-!Terminal
-!Fastfetch
-
-</div>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04.4_LTS-E95420?style=for-the-badge&logo=ubuntu)
+![Shell](https://img.shields.io/badge/Shell-ZSH-89e051?style=for-the-badge)
+![Terminal](https://img.shields.io/badge/Terminal-Kitty-blue?style=for-the-badge)
+![Fastfetch](https://img.shields.io/badge/System-Fastfetch-black?style=for-the-badge)
 
 ---
+</div>
 
 # ✨ Features
-
+ 
 This setup gives you:
-
-✅ Clean cyberpunk terminal UI
-✅ Custom anime image support
-✅ Beautiful developer fonts
-✅ Fast system information with Fastfetch
-✅ ZSH shell customization
-✅ Kitty GPU accelerated terminal
-✅ Easy restore to original terminal
-✅ Beginner friendly installation guide
-
+ 
+✅ Clean cyberpunk terminal UI  
+✅ Custom anime image support  
+✅ Beautiful developer fonts  
+✅ Fast system information with Fastfetch  
+✅ ZSH shell customization  
+✅ Kitty GPU accelerated terminal  
+✅ Easy restore to original terminal  
+✅ Beginner friendly installation guide  
+✅ GNOME Extensions for desktop customization  
+✅ Conky widgets for system monitoring  
+ 
 ---
 
 # 🖼 Preview
