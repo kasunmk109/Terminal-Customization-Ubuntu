@@ -237,8 +237,8 @@ This creates:
 Clone this repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
+git clone https://github.com/kasunmk109/Terminal-Customization-Ubuntu.git
+cd Terminal-Customization-Ubuntu
 ```
 
 Replace config:
